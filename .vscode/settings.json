@@ -1,4 +1,4 @@
 {
-    "python.formatting.autopep8Path": "/home/martino/.pyenv/shims/autopep8",
+    "python.formatting.autopep8Path": "/home/jamesscott/.pyenv/shims/autopep8",
     "python.linting.pylintEnabled": true,
 }
